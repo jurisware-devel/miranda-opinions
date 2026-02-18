@@ -1,0 +1,54 @@
+[
+  {
+    "caseId": "2003_17888",
+    "summary": "Defendant who requested a lesser-included-offense charge waived/forfeited any statute-of-limitations defense to that lesser offense where the indictment was supported by legally sufficient evidence. Grand jury evidence was sufficient to support depraved-indifference murder. Marital-privilege claim failed because statements were made during threats/abuse and were not confidential."
+  },
+  {
+    "caseId": "2003_18508",
+    "summary": "Conviction reversed and new trial ordered because the town justice abdicated control of jury selection and instructions, allowing the prosecutor to run core judicial functions. The resulting loss of judicial supervision deprived defendant of a fair trial."
+  },
+  {
+    "caseId": "2003_18775",
+    "summary": "People's appeal dismissed because the Appellate Division lacked jurisdiction to review the trial court's order allowing plea withdrawal where no judgment had been entered. The order was nonappealable under the CPL, so the appeal had to be dismissed."
+  },
+  {
+    "caseId": "2003_18777",
+    "summary": "Incorrect advice about deportation consequences can constitute ineffective assistance of counsel. Defendant failed to show prejudice from counsel's error, so conviction was affirmed."
+  },
+  {
+    "caseId": "2003_18879",
+    "summary": "Interest-of-justice dismissal reversed because the court relied on a repealed statute and failed to consider the CPL 170.40 factors on the record. Tractor was subject to Vehicle and Traffic Law lighting requirements, so the traffic information was reinstated."
+  },
+  {
+    "caseId": "2003_18881",
+    "summary": "Aggravating factors for first-degree murder (witness-elimination and burglary) were not proved, so the death sentences were vacated. Conviction was reduced to second-degree intentional murder and the case remitted for resentencing."
+  },
+  {
+    "caseId": "2003_18984",
+    "summary": "Trial court's removal of intentional-murder counts for insufficient evidence was an acquittal for double-jeopardy purposes. Because first-degree manslaughter is a lesser-included offense of intentional murder, retrial on that charge was barred and those counts dismissed; retrial limited to second-degree manslaughter."
+  },
+  {
+    "caseId": "2003_18985",
+    "summary": "Guilty plea induced by a promise of a concurrent sentence can be vacated when the predicate conviction is later overturned, even if the concurrent term has already been served. Promise became unfulfillable once the murder conviction was vacated, so plea vacatur was reinstated."
+  },
+  {
+    "caseId": "2003_19672",
+    "summary": "Court of Appeals lacked power to review the discretionary decision to vacate a conviction and grant a new trial on newly discovered evidence. Order was affirmed."
+  },
+  {
+    "caseId": "2003_19674",
+    "summary": "Trial court properly redacted a hospital-record notation where intoxication evidence was otherwise available and not relied on, so no abuse of discretion. No violation of defendant's right to be present for supplemental instructions given the unrebutted presumption of regularity."
+  },
+  {
+    "caseId": "2003_19683",
+    "summary": "Admission of the victim's later hospital statement as an excited utterance was error. Error was harmless beyond a reasonable doubt in light of overwhelming evidence, so conviction was affirmed."
+  },
+  {
+    "caseId": "2003_19684",
+    "summary": "Inventory search was invalid because the People failed to prove a standardized policy or compliance with it, and the search appeared pretextual. Suppression granted and indictment dismissed."
+  },
+  {
+    "caseId": "2003_19689",
+    "summary": "Counsel's performance fell within reasonable strategic bounds despite failure to object to some prosecutorial questions and summation. Defendant failed to show absence of legitimate strategy, so ineffective-assistance claim failed and conviction affirmed."
+  }
+]
