@@ -26,7 +26,7 @@ const refRe = /^\s*\[(\d+)\]\s+https?:\/\/(?:www\.)?(?:nycourts\.gov|courts\.sta
 
 // Strict target:
 // [#]see People v[.] <name>, <vol> NY3d <page>[, <pincite>|<range>] [<year>]
-const strictRe = /\[(\d+)\]((?:see)\s+People\s+v\.?\s+[^,\n]+,\s*\d+\s+NY3d\s+\d+(?:,\s*\d+(?:-\d+)?)?\s*\[\d{4}\])/gi;
+const strictRe = /\[(\d+)\]((?:see)\s+People\s+v\.?\s+[^,\n]+,\s*\d+\s+NY3d\s+\d+(?:,\s*\d+(?:\s*[-–—]\s*\d+)?)?\s*\[\d{4}\])/gi;
 
 let filesChanged = 0;
 let rewrites = 0;

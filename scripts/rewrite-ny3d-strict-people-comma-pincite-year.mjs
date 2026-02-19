@@ -27,7 +27,7 @@ const refRe = /^\s*\[(\d+)\]\s+https?:\/\/(?:www\.)?(?:nycourts\.gov|courts\.sta
 // Strict target:
 // [#]People v[.] <name>, <vol> NY3d <page>, <pincite> [<year>]
 // where pincite can be a single page or range.
-const strictRe = /\[(\d+)\](People\s+v\.?\s+[^,\n]+,\s*\d+\s+NY3d\s+\d+,\s*\d+(?:-\d+)?\s*\[\d{4}\])/g;
+const strictRe = /\[(\d+)\](People\s+v\.?\s+[^,\n]+,\s*\d+\s+NY3d\s+\d+,\s*\d+(?:\s*[-–—]\s*\d+)?\s*\[\d{4}\])/g;
 
 let filesChanged = 0;
 let rewrites = 0;

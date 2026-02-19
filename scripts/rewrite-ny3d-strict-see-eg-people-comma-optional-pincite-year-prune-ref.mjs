@@ -28,7 +28,7 @@ const refLineRe = /^(\s*)\[(\d+)\](\s+.*)$/;
 // Strict target:
 // [#]see e.g. People v[.] <name>, <vol> NY3d <page>[, <pincite>|<range>] [<year>]
 // Keep "see e.g." outside link. Link only "People ... [year]".
-const strictRe = /\[(\d+)\](see\s+e\.g\.\s+)(People\s+v\.?\s+[^,\n]+,\s*\d+\s+NY3d\s+\d+(?:,\s*\d+(?:-\d+)?)?\s*\[\d{4}\])/gi;
+const strictRe = /\[(\d+)\](see\s+e\.g\.\s+)(People\s+v\.?\s+[^,\n]+,\s*\d+\s+NY3d\s+\d+(?:,\s*\d+(?:\s*[-–—]\s*\d+)?)?\s*\[\d{4}\])/gi;
 
 let filesChanged = 0;
 let rewrites = 0;
