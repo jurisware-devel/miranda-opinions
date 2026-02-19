@@ -22,23 +22,24 @@ const files = walk(path.join(root, 'coa'))
   .filter((f) => years.includes(path.basename(path.dirname(f))))
   .sort();
 
-const refRe = /^\[(\d+)\]\s+https?:\/\/www\.nycourts\.gov\/reporter\/3dseries\/(\d{4})\/(\d{4}_\d{5})\.htm(?:#\w+)?\s*$/i;
+const refRe = /^\s*\[(\d+)\]\s+https?:\/\/(?:www\.)?(?:nycourts\.gov|courts\.state\.ny\.us)\/reporter\/3dseries\/(\d{4})\/(\d{4}_\d{5})\.htm(?:#\w+)?\s*$/i;
 
 // Strict target pattern requested by user:
 // [#]People v <name>, XXX NY3d YYY, ZZZ [year]
 // tolerate typo v.
-const strictRe = /\[(\d+)\](People\s+v\.?\s+[A-Z][A-Za-z'\- ]+?,\s*\d+\s+NY3d\s+\d+,\s*\d+\s*\[\d{4}\])/g;
+const strictRe = /\[(\d+)\](People\s+v\.?\s+[^,\n]+?,\s*\d+\s+NY3d\s+\d+,\s*\d+\s*\[\d{4}\])/g;
 
 let filesChanged = 0;
 let rewrites = 0;
 
 for (const file of files) {
   const original = fs.readFileSync(file, 'utf8');
-  const split = original.split(/\nReferences\n/);
-  if (split.length < 2) continue;
-
-  const body = split[0];
-  const refsText = split.slice(1).join('\nReferences\n');
+  const refsHeader = original.match(/\nReferences\s*\n/i);
+  if (!refsHeader || refsHeader.index == null) continue;
+  const splitAt = refsHeader.index;
+  const headerLen = refsHeader[0].length;
+  const body = original.slice(0, splitAt);
+  const refsText = original.slice(splitAt + headerLen);
   const refs = new Map();
   for (const line of refsText.split(/\r?\n/)) {
     const m = line.match(refRe);
