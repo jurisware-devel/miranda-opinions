@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3246592615d1e017",
+        "id": "7ec1597023531bdb",
         "type": "tabs",
         "children": [
           {
-            "id": "25ea41535ffba903",
+            "id": "c0fb68633d1d68d6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -91,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coa/2003/2003_17888.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2003_17888"
+              "title": "Backlinks"
             }
           },
           {
@@ -180,7 +179,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "25ea41535ffba903",
+  "active": "c0fb68633d1d68d6",
   "lastOpenFiles": [
     "scotus/2023/23-370.md",
     "coa/2003/2003_17888.md",
