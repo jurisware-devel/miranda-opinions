@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coa/2003/2003_17888.md",
+                "file": "scotus/2023/23-370.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2003_17888"
+              "title": "23-370"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bd645261838d41fa",
@@ -185,8 +186,8 @@
   },
   "active": "c6098cb0ef3f2fe8",
   "lastOpenFiles": [
-    "coa/2003/2003_18508.md",
     "coa/2003/2003_17888.md",
+    "coa/2003/2003_18508.md",
     "coa/2003/2003_18984.md",
     "coa/2003/2003_18881.md",
     "coa/2003/2003_18879.md",
