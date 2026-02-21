@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ec1597023531bdb",
+        "id": "b178e4967f73ddbe",
         "type": "tabs",
         "children": [
           {
-            "id": "c0fb68633d1d68d6",
+            "id": "e30a142d6411e5be",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,7 +179,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "c0fb68633d1d68d6",
+  "active": "e30a142d6411e5be",
   "lastOpenFiles": [
     "scotus/2023/23-370.md",
     "coa/2003/2003_17888.md",
