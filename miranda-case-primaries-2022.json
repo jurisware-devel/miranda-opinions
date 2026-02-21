@@ -1,0 +1,162 @@
+[
+  {
+    "caseId": "2022_00040",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2022_00113",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2022_00113",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2022_00909",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2022_00960",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2022_01868",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2022_01868",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2022_01956",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2022_01956",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2022_02580",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2022_02770",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2022_02771",
+    "tagId": "confrontation"
+  },
+  {
+    "caseId": "2022_02771",
+    "tagId": "discovery"
+  },
+  {
+    "caseId": "2022_02771",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2022_02772",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2022_02772",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2022_02772",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2022_03360",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2022_03362",
+    "tagId": "affirmative-defenses"
+  },
+  {
+    "caseId": "2022_03362",
+    "tagId": "hearsay"
+  },
+  {
+    "caseId": "2022_03363",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2022_03862",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2022_03863",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2022_03928",
+    "tagId": "speedy-trial"
+  },
+  {
+    "caseId": "2022_03930",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2022_03932",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2022_04663",
+    "tagId": "confrontation"
+  },
+  {
+    "caseId": "2022_05916",
+    "tagId": "jury-selection"
+  },
+  {
+    "caseId": "2022_05919",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2022_06537",
+    "tagId": "speedy-trial"
+  },
+  {
+    "caseId": "2022_06541",
+    "tagId": "affirmative-defenses"
+  },
+  {
+    "caseId": "2022_06541",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2022_07021",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2022_07022",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2022_07023",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2022_07024",
+    "tagId": "affirmative-defenses"
+  },
+  {
+    "caseId": "2022_07024",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2022_07092",
+    "tagId": "affirmative-defenses"
+  },
+  {
+    "caseId": "2022_07092",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2022_07093",
+    "tagId": "bail"
+  }
+]

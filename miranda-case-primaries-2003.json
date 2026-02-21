@@ -1,0 +1,20 @@
+[
+  { "caseId": "2003_17888", "tagId": "grand-jury" },
+  { "caseId": "2003_18508", "tagId": "jury-instructions" },
+  { "caseId": "2003_18508", "tagId": "jury-selection" },
+  { "caseId": "2003_18775", "tagId": "pleas" },
+  { "caseId": "2003_18777", "tagId": "iac" },
+  { "caseId": "2003_18777", "tagId": "pleas" },
+  { "caseId": "2003_18881", "tagId": "jury-selection" },
+  { "caseId": "2003_18881", "tagId": "sufficiency-weight" },
+  { "caseId": "2003_18984", "tagId": "double-jeopardy" },
+  { "caseId": "2003_18985", "tagId": "pleas" },
+  { "caseId": "2003_19672", "tagId": "post-conviction" },
+  { "caseId": "2003_19674", "tagId": "affirmative-defenses" },
+  { "caseId": "2003_19683", "tagId": "appellate-standards" },
+  { "caseId": "2003_19683", "tagId": "confrontation" },
+  { "caseId": "2003_19683", "tagId": "hearsay" },
+  { "caseId": "2003_19684", "tagId": "search-seizure" },
+  { "caseId": "2003_19684", "tagId": "suppression" },
+  { "caseId": "2003_19689", "tagId": "iac" }
+]
