@@ -1,0 +1,1210 @@
+[
+  {
+    "caseId": "2015_01302",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2015_01375",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2015_01375",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_01375",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_01375",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2015_01377",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2015_01379",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_01481",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2015_01481",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_01485",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_01485",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2015_01485",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_01485",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2015_01557",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_02552",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2015_02552",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2015_02552",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2015_02553",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2015_02553",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_02553",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2015_02672",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2015_02672",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_02672",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2015_02672",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2015_02672",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_02672",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2015_02675",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2015_02675",
+    "tagId": "confrontation"
+  },
+  {
+    "caseId": "2015_02675",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2015_02675",
+    "tagId": "hearsay"
+  },
+  {
+    "caseId": "2015_02675",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2015_02675",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_02675",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_02676",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2015_02676",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2015_02676",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2015_02676",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_02678",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2015_02678",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2015_02798",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2015_02798",
+    "tagId": "confrontation"
+  },
+  {
+    "caseId": "2015_02798",
+    "tagId": "discovery"
+  },
+  {
+    "caseId": "2015_02798",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2015_02798",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_02865",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_02865",
+    "tagId": "confrontation"
+  },
+  {
+    "caseId": "2015_02865",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2015_02865",
+    "tagId": "hearsay"
+  },
+  {
+    "caseId": "2015_02865",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2015_02865",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2015_02865",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_02865",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_02866",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2015_02866",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_02866",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2015_02866",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_02866",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_02866",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2015_02867",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_02867",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2015_02867",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_02867",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2015_02869",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2015_02869",
+    "tagId": "other-crimes"
+  },
+  {
+    "caseId": "2015_02869",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_03764",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2015_03764",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_03767",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2015_03767",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2015_03767",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_03767",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2015_03768",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_03768",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2015_03768",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_03877",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_03877",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_04027",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2015_04027",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2015_04027",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2015_04027",
+    "tagId": "speedy-trial"
+  },
+  {
+    "caseId": "2015_04027",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_04163",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2015_04163",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_04165",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_04165",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_04677",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2015_04677",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2015_04754",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2015_04754",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2015_04755",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2015_04755",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_04755",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2015_04758",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_04758",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2015_04790",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2015_04790",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_04790",
+    "tagId": "confrontation"
+  },
+  {
+    "caseId": "2015_04790",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2015_04790",
+    "tagId": "hearsay"
+  },
+  {
+    "caseId": "2015_04874",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2015_04874",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_04875",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2015_04875",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2015_04875",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_04877",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_05511",
+    "tagId": "jury-selection"
+  },
+  {
+    "caseId": "2015_05511",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2015_05511",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2015_05511",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_05511",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2015_05512",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2015_05512",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2015_05512",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_05512",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_05515",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2015_05515",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_05515",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2015_05592",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2015_05592",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_05595",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2015_05595",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_05595",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2015_05596",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_05596",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2015_05596",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2015_05596",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2015_05596",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2015_05596",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_05596",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2015_05596",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_05596",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2015_05621",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2015_05621",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2015_05621",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_05621",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_05621",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2015_07528",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2015_07528",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2015_07529",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2015_07529",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2015_07529",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2015_07529",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_07530",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2015_07530",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_07574",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_07576",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2015_07576",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2015_07576",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_07577",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2015_07577",
+    "tagId": "hearsay"
+  },
+  {
+    "caseId": "2015_07577",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_07694",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2015_07694",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_07694",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2015_07697",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_07697",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2015_07697",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_07699",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_07779",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2015_07779",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_07779",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2015_07779",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2015_07779",
+    "tagId": "other-crimes"
+  },
+  {
+    "caseId": "2015_07779",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_07779",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2015_07779",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2015_07781",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2015_07781",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2015_07781",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_07781",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_07782",
+    "tagId": "bail"
+  },
+  {
+    "caseId": "2015_07782",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_07782",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2015_07782",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_07784",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_07784",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2015_07784",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2015_07784",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_07786",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2015_07786",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_08368",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2015_08368",
+    "tagId": "confrontation"
+  },
+  {
+    "caseId": "2015_08368",
+    "tagId": "hearsay"
+  },
+  {
+    "caseId": "2015_08368",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_08369",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2015_08369",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2015_08369",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_08370",
+    "tagId": "affirmative-defenses"
+  },
+  {
+    "caseId": "2015_08370",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2015_08370",
+    "tagId": "other-crimes"
+  },
+  {
+    "caseId": "2015_08370",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_08370",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_08453",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_08453",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2015_08453",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2015_08453",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2015_08453",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2015_08453",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_08454",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2015_08454",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2015_08454",
+    "tagId": "hearsay"
+  },
+  {
+    "caseId": "2015_08454",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2015_08454",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_08456",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2015_08456",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_08457",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2015_08457",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2015_08457",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_08457",
+    "tagId": "speedy-trial"
+  },
+  {
+    "caseId": "2015_08457",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_08606",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2015_08606",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2015_08606",
+    "tagId": "hearsay"
+  },
+  {
+    "caseId": "2015_08606",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2015_08606",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_08607",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2015_08607",
+    "tagId": "discovery"
+  },
+  {
+    "caseId": "2015_08607",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2015_08607",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2015_08607",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2015_08607",
+    "tagId": "jury-selection"
+  },
+  {
+    "caseId": "2015_08607",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_08608",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2015_08608",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2015_08608",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2015_08608",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2015_08608",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_08609",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2015_08609",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_08609",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2015_08609",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_08609",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2015_08610",
+    "tagId": "discovery"
+  },
+  {
+    "caseId": "2015_08610",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2015_08610",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2015_08610",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2015_08610",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2015_08610",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_08610",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2015_08611",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2015_08611",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2015_08611",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_08614",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2015_08614",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2015_08614",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2015_08614",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_08615",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_08615",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2015_08615",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2015_08615",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2015_08615",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_08615",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2015_08615",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_08616",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2015_08616",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_08617",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2015_08617",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_08617",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_08618",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2015_08618",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_09188",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_09188",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2015_09188",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2015_09188",
+    "tagId": "hearsay"
+  },
+  {
+    "caseId": "2015_09188",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_09190",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2015_09230",
+    "tagId": "discovery"
+  },
+  {
+    "caseId": "2015_09230",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_09233",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_09233",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2015_09233",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2015_09233",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_09311",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_09311",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2015_09311",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2015_09311",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2015_09311",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2015_09311",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_09311",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2015_09311",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_09312",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2015_09312",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2015_09312",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_09313",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2015_09313",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2015_09313",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_09313",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2015_09314",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2015_09314",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_09314",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_09314",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2015_09315",
+    "tagId": "affirmative-defenses"
+  },
+  {
+    "caseId": "2015_09315",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2015_09315",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_09315",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2015_09315",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2015_09315",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2015_09315",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2015_09315",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2015_09316",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2015_09316",
+    "tagId": "hearsay"
+  },
+  {
+    "caseId": "2015_09316",
+    "tagId": "statements"
+  }
+]
