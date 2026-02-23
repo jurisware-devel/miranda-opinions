@@ -1,0 +1,824 @@
+[
+  {
+    "tagId": "search-seizure",
+    "label": "Search & Seizure",
+    "parentTagId": null,
+    "color": "#b13333"
+  },
+  {
+    "tagId": "search-seizure-police-encounters",
+    "label": "Police Encounters",
+    "parentTagId": "search-seizure",
+    "color": "#d49090"
+  },
+  {
+    "tagId": "search-seizure-reasonable-suspicion",
+    "label": "Reasonable Suspicion",
+    "parentTagId": "search-seizure",
+    "color": "#d49090"
+  },
+  {
+    "tagId": "search-seizure-probable-cause",
+    "label": "Probable Cause",
+    "parentTagId": "search-seizure",
+    "color": "#d49090"
+  },
+  {
+    "tagId": "search-seizure-search-incident",
+    "label": "Search Incident",
+    "parentTagId": "search-seizure",
+    "color": "#d49090"
+  },
+  {
+    "tagId": "search-seizure-search-warrants",
+    "label": "Search Warrants",
+    "parentTagId": "search-seizure",
+    "color": "#d49090"
+  },
+  {
+    "tagId": "search-seizure-consent",
+    "label": "Consent",
+    "parentTagId": "search-seizure",
+    "color": "#d49090"
+  },
+  {
+    "tagId": "search-seizure-premises",
+    "label": "Premises",
+    "parentTagId": "search-seizure",
+    "color": "#d49090"
+  },
+  {
+    "tagId": "search-seizure-payton",
+    "label": "Payton",
+    "parentTagId": "search-seizure",
+    "color": "#d49090"
+  },
+  {
+    "tagId": "search-seizure-exigent-circumstances",
+    "label": "Exigent Circumstances",
+    "parentTagId": "search-seizure",
+    "color": "#d49090"
+  },
+  {
+    "tagId": "search-seizure-auto-exception",
+    "label": "Auto Exception",
+    "parentTagId": "search-seizure",
+    "color": "#d49090"
+  },
+  {
+    "tagId": "search-seizure-plain-view",
+    "label": "Plain View",
+    "parentTagId": "search-seizure",
+    "color": "#d49090"
+  },
+  {
+    "tagId": "search-seizure-inventory",
+    "label": "Inventory",
+    "parentTagId": "search-seizure",
+    "color": "#d49090"
+  },
+  {
+    "tagId": "search-seizure-digital-privacy",
+    "label": "Digital Privacy",
+    "parentTagId": "search-seizure",
+    "color": "#d49090"
+  },
+  {
+    "tagId": "search-seizure-standing",
+    "label": "Standing",
+    "parentTagId": "search-seizure",
+    "color": "#d49090"
+  },
+  {
+    "tagId": "search-seizure-attenuation",
+    "label": "Attenuation",
+    "parentTagId": "search-seizure",
+    "color": "#d49090"
+  },
+  {
+    "tagId": "statements",
+    "label": "Statements",
+    "parentTagId": null,
+    "color": "#b14e33"
+  },
+  {
+    "tagId": "statements-miranda",
+    "label": "Miranda",
+    "parentTagId": "statements",
+    "color": "#d49e90"
+  },
+  {
+    "tagId": "statements-custody",
+    "label": "Custody",
+    "parentTagId": "statements",
+    "color": "#d49e90"
+  },
+  {
+    "tagId": "statements-interrogation",
+    "label": "Interrogation",
+    "parentTagId": "statements",
+    "color": "#d49e90"
+  },
+  {
+    "tagId": "statements-spontaneous",
+    "label": "Spontaneous",
+    "parentTagId": "statements",
+    "color": "#d49e90"
+  },
+  {
+    "tagId": "statements-invocation",
+    "label": "Invocation",
+    "parentTagId": "statements",
+    "color": "#d49e90"
+  },
+  {
+    "tagId": "statements-waiver",
+    "label": "Waiver",
+    "parentTagId": "statements",
+    "color": "#d49e90"
+  },
+  {
+    "tagId": "statements-voluntariness",
+    "label": "Voluntariness",
+    "parentTagId": "statements",
+    "color": "#d49e90"
+  },
+  {
+    "tagId": "identifications",
+    "label": "Identifications",
+    "parentTagId": null,
+    "color": "#b16a33"
+  },
+  {
+    "tagId": "identifications-lineups",
+    "label": "Lineups",
+    "parentTagId": "identifications",
+    "color": "#d4ad90"
+  },
+  {
+    "tagId": "identifications-showups",
+    "label": "Showups",
+    "parentTagId": "identifications",
+    "color": "#d4ad90"
+  },
+  {
+    "tagId": "identifications-photo-arrays",
+    "label": "Photo Arrays",
+    "parentTagId": "identifications",
+    "color": "#d4ad90"
+  },
+  {
+    "tagId": "identifications-suggestiveness",
+    "label": "Suggestiveness",
+    "parentTagId": "identifications",
+    "color": "#d4ad90"
+  },
+  {
+    "tagId": "identifications-independent-source",
+    "label": "Independent Source",
+    "parentTagId": "identifications",
+    "color": "#d4ad90"
+  },
+  {
+    "tagId": "hearsay",
+    "label": "Hearsay",
+    "parentTagId": null,
+    "color": "#b18733"
+  },
+  {
+    "tagId": "hearsay-excited-utterance",
+    "label": "Excited Utterance",
+    "parentTagId": "hearsay",
+    "color": "#d4bd90"
+  },
+  {
+    "tagId": "hearsay-present-sense-impression",
+    "label": "Present Sense Impression",
+    "parentTagId": "hearsay",
+    "color": "#d4bd90"
+  },
+  {
+    "tagId": "hearsay-state-of-mind",
+    "label": "State of Mind",
+    "parentTagId": "hearsay",
+    "color": "#d4bd90"
+  },
+  {
+    "tagId": "hearsay-statements-against-interest",
+    "label": "Statements Against Interest",
+    "parentTagId": "hearsay",
+    "color": "#d4bd90"
+  },
+  {
+    "tagId": "hearsay-business-records",
+    "label": "Business Records",
+    "parentTagId": "hearsay",
+    "color": "#d4bd90"
+  },
+  {
+    "tagId": "confrontation",
+    "label": "Confrontation",
+    "parentTagId": null,
+    "color": "#b1a333"
+  },
+  {
+    "tagId": "confrontation-testimonial",
+    "label": "Testimonial",
+    "parentTagId": "confrontation",
+    "color": "#d4cc90"
+  },
+  {
+    "tagId": "confrontation-forensic-reports",
+    "label": "Forensic Reports",
+    "parentTagId": "confrontation",
+    "color": "#d4cc90"
+  },
+  {
+    "tagId": "confrontation-surrogate-analysts",
+    "label": "Surrogate Analysts",
+    "parentTagId": "confrontation",
+    "color": "#d4cc90"
+  },
+  {
+    "tagId": "confrontation-primary-purpose",
+    "label": "Primary Purpose",
+    "parentTagId": "confrontation",
+    "color": "#d4cc90"
+  },
+  {
+    "tagId": "right-to-counsel",
+    "label": "Right to Counsel",
+    "parentTagId": null,
+    "color": "#a5b133"
+  },
+  {
+    "tagId": "right-to-counsel-attachment",
+    "label": "Attachment",
+    "parentTagId": "right-to-counsel",
+    "color": "#ced490"
+  },
+  {
+    "tagId": "right-to-counsel-indelible-right-ny",
+    "label": "Indelible Right (NY)",
+    "parentTagId": "right-to-counsel",
+    "color": "#ced490"
+  },
+  {
+    "tagId": "right-to-counsel-massiah",
+    "label": "Massiah",
+    "parentTagId": "right-to-counsel",
+    "color": "#ced490"
+  },
+  {
+    "tagId": "right-to-counsel-conflicts",
+    "label": "Conflicts",
+    "parentTagId": "right-to-counsel",
+    "color": "#ced490"
+  },
+  {
+    "tagId": "jury-selection",
+    "label": "Jury Selection",
+    "parentTagId": null,
+    "color": "#87b133"
+  },
+  {
+    "tagId": "jury-selection-batson",
+    "label": "Batson",
+    "parentTagId": "jury-selection",
+    "color": "#bdd490"
+  },
+  {
+    "tagId": "jury-selection-for-cause",
+    "label": "For-Cause",
+    "parentTagId": "jury-selection",
+    "color": "#bdd490"
+  },
+  {
+    "tagId": "jury-selection-peremptories",
+    "label": "Peremptories",
+    "parentTagId": "jury-selection",
+    "color": "#bdd490"
+  },
+  {
+    "tagId": "jury-selection-juror-bias",
+    "label": "Juror Bias",
+    "parentTagId": "jury-selection",
+    "color": "#bdd490"
+  },
+  {
+    "tagId": "jury-instructions",
+    "label": "Jury Instructions",
+    "parentTagId": null,
+    "color": "#6cb133"
+  },
+  {
+    "tagId": "jury-instructions-lesser-included",
+    "label": "Lesser Included",
+    "parentTagId": "jury-instructions",
+    "color": "#afd490"
+  },
+  {
+    "tagId": "jury-instructions-justification",
+    "label": "Justification",
+    "parentTagId": "jury-instructions",
+    "color": "#afd490"
+  },
+  {
+    "tagId": "jury-instructions-credibility",
+    "label": "Credibility",
+    "parentTagId": "jury-instructions",
+    "color": "#afd490"
+  },
+  {
+    "tagId": "jury-instructions-circumstantial",
+    "label": "Circumstantial",
+    "parentTagId": "jury-instructions",
+    "color": "#afd490"
+  },
+  {
+    "tagId": "sufficiency-weight",
+    "label": "Sufficiency / Weight",
+    "parentTagId": null,
+    "color": "#51b133"
+  },
+  {
+    "tagId": "sufficiency-weight-legal-sufficiency",
+    "label": "Legal Sufficiency",
+    "parentTagId": "sufficiency-weight",
+    "color": "#a0d490"
+  },
+  {
+    "tagId": "sufficiency-weight-weight",
+    "label": "Weight",
+    "parentTagId": "sufficiency-weight",
+    "color": "#a0d490"
+  },
+  {
+    "tagId": "sufficiency-weight-depraved-indifference",
+    "label": "Depraved Indifference",
+    "parentTagId": "sufficiency-weight",
+    "color": "#a0d490"
+  },
+  {
+    "tagId": "preservation",
+    "label": "Preservation",
+    "parentTagId": null,
+    "color": "#33b133"
+  },
+  {
+    "tagId": "preservation-contemporaneous-objection",
+    "label": "Contemporaneous Objection",
+    "parentTagId": "preservation",
+    "color": "#90d490"
+  },
+  {
+    "tagId": "preservation-mode-of-proceedings",
+    "label": "Mode of Proceedings",
+    "parentTagId": "preservation",
+    "color": "#90d490"
+  },
+  {
+    "tagId": "preservation-habeas-default",
+    "label": "Habeas Default",
+    "parentTagId": "preservation",
+    "color": "#90d490"
+  },
+  {
+    "tagId": "grand-jury",
+    "label": "Grand Jury",
+    "parentTagId": null,
+    "color": "#33b14e"
+  },
+  {
+    "tagId": "grand-jury-legal-sufficiency",
+    "label": "Legal Sufficiency",
+    "parentTagId": "grand-jury",
+    "color": "#90d49e"
+  },
+  {
+    "tagId": "grand-jury-defective-instructions",
+    "label": "Defective Instructions",
+    "parentTagId": "grand-jury",
+    "color": "#90d49e"
+  },
+  {
+    "tagId": "grand-jury-impairment",
+    "label": "Impairment",
+    "parentTagId": "grand-jury",
+    "color": "#90d49e"
+  },
+  {
+    "tagId": "charging",
+    "label": "Charging",
+    "parentTagId": null,
+    "color": "#33b16a"
+  },
+  {
+    "tagId": "charging-duplicity",
+    "label": "Duplicity",
+    "parentTagId": "charging",
+    "color": "#90d4ad"
+  },
+  {
+    "tagId": "charging-multiplicity",
+    "label": "Multiplicity",
+    "parentTagId": "charging",
+    "color": "#90d4ad"
+  },
+  {
+    "tagId": "charging-amendment",
+    "label": "Amendment",
+    "parentTagId": "charging",
+    "color": "#90d4ad"
+  },
+  {
+    "tagId": "charging-jurisdiction",
+    "label": "Jurisdiction",
+    "parentTagId": "charging",
+    "color": "#90d4ad"
+  },
+  {
+    "tagId": "speedy-trial",
+    "label": "Speedy Trial",
+    "parentTagId": null,
+    "color": "#33b187"
+  },
+  {
+    "tagId": "speedy-trial-cpl-3030",
+    "label": "CPL 30.30",
+    "parentTagId": "speedy-trial",
+    "color": "#90d4bd"
+  },
+  {
+    "tagId": "speedy-trial-constitutional",
+    "label": "Constitutional",
+    "parentTagId": "speedy-trial",
+    "color": "#90d4bd"
+  },
+  {
+    "tagId": "speedy-trial-barker",
+    "label": "Barker",
+    "parentTagId": "speedy-trial",
+    "color": "#90d4bd"
+  },
+  {
+    "tagId": "joinder-severance",
+    "label": "Joinder / Severance",
+    "parentTagId": null,
+    "color": "#33b1a3"
+  },
+  {
+    "tagId": "joinder-severance-cpl-20020",
+    "label": "CPL 200.20",
+    "parentTagId": "joinder-severance",
+    "color": "#90d4cc"
+  },
+  {
+    "tagId": "joinder-severance-spillover",
+    "label": "Spillover",
+    "parentTagId": "joinder-severance",
+    "color": "#90d4cc"
+  },
+  {
+    "tagId": "joinder-severance-cross-admissibility",
+    "label": "Cross-Admissibility",
+    "parentTagId": "joinder-severance",
+    "color": "#90d4cc"
+  },
+  {
+    "tagId": "other-crimes",
+    "label": "Other Crimes",
+    "parentTagId": null,
+    "color": "#33a5b1"
+  },
+  {
+    "tagId": "other-crimes-molineux",
+    "label": "Molineux",
+    "parentTagId": "other-crimes",
+    "color": "#90ced4"
+  },
+  {
+    "tagId": "other-crimes-intent--identity",
+    "label": "Intent / Identity",
+    "parentTagId": "other-crimes",
+    "color": "#90ced4"
+  },
+  {
+    "tagId": "other-crimes-dv-exception",
+    "label": "DV Exception",
+    "parentTagId": "other-crimes",
+    "color": "#90ced4"
+  },
+  {
+    "tagId": "experts",
+    "label": "Experts",
+    "parentTagId": null,
+    "color": "#3387b1"
+  },
+  {
+    "tagId": "experts-frye",
+    "label": "Frye",
+    "parentTagId": "experts",
+    "color": "#90bdd4"
+  },
+  {
+    "tagId": "experts-daubert",
+    "label": "Daubert",
+    "parentTagId": "experts",
+    "color": "#90bdd4"
+  },
+  {
+    "tagId": "experts-dna",
+    "label": "DNA",
+    "parentTagId": "experts",
+    "color": "#90bdd4"
+  },
+  {
+    "tagId": "experts-reliability",
+    "label": "Reliability",
+    "parentTagId": "experts",
+    "color": "#90bdd4"
+  },
+  {
+    "tagId": "discovery",
+    "label": "Discovery",
+    "parentTagId": null,
+    "color": "#336cb1"
+  },
+  {
+    "tagId": "discovery-brady",
+    "label": "Brady",
+    "parentTagId": "discovery",
+    "color": "#90afd4"
+  },
+  {
+    "tagId": "discovery-rosario",
+    "label": "Rosario",
+    "parentTagId": "discovery",
+    "color": "#90afd4"
+  },
+  {
+    "tagId": "discovery-article-245",
+    "label": "Article 245",
+    "parentTagId": "discovery",
+    "color": "#90afd4"
+  },
+  {
+    "tagId": "discovery-sanctions",
+    "label": "Sanctions",
+    "parentTagId": "discovery",
+    "color": "#90afd4"
+  },
+  {
+    "tagId": "pleas",
+    "label": "Pleas",
+    "parentTagId": null,
+    "color": "#3351b1"
+  },
+  {
+    "tagId": "pleas-validity",
+    "label": "Validity",
+    "parentTagId": "pleas",
+    "color": "#90a0d4"
+  },
+  {
+    "tagId": "pleas-appeal-waivers",
+    "label": "Appeal Waivers",
+    "parentTagId": "pleas",
+    "color": "#90a0d4"
+  },
+  {
+    "tagId": "pleas-immigration",
+    "label": "Immigration",
+    "parentTagId": "pleas",
+    "color": "#90a0d4"
+  },
+  {
+    "tagId": "sentencing",
+    "label": "Sentencing",
+    "parentTagId": null,
+    "color": "#3333b1"
+  },
+  {
+    "tagId": "sentencing-persistent-offender",
+    "label": "Persistent Offender",
+    "parentTagId": "sentencing",
+    "color": "#9090d4"
+  },
+  {
+    "tagId": "sentencing-youthful-offender",
+    "label": "Youthful Offender",
+    "parentTagId": "sentencing",
+    "color": "#9090d4"
+  },
+  {
+    "tagId": "sentencing-eighth-amendment",
+    "label": "Eighth Amendment",
+    "parentTagId": "sentencing",
+    "color": "#9090d4"
+  },
+  {
+    "tagId": "sentencing-restitution",
+    "label": "Restitution",
+    "parentTagId": "sentencing",
+    "color": "#9090d4"
+  },
+  {
+    "tagId": "double-jeopardy",
+    "label": "Double Jeopardy",
+    "parentTagId": null,
+    "color": "#4e33b1"
+  },
+  {
+    "tagId": "double-jeopardy-same-offense",
+    "label": "Same Offense",
+    "parentTagId": "double-jeopardy",
+    "color": "#9e90d4"
+  },
+  {
+    "tagId": "double-jeopardy-successive-prosecution",
+    "label": "Successive Prosecution",
+    "parentTagId": "double-jeopardy",
+    "color": "#9e90d4"
+  },
+  {
+    "tagId": "double-jeopardy-mistrial",
+    "label": "Mistrial",
+    "parentTagId": "double-jeopardy",
+    "color": "#9e90d4"
+  },
+  {
+    "tagId": "iac",
+    "label": "IAC",
+    "parentTagId": null,
+    "color": "#6a33b1"
+  },
+  {
+    "tagId": "iac-strickland",
+    "label": "Strickland",
+    "parentTagId": "iac",
+    "color": "#ad90d4"
+  },
+  {
+    "tagId": "iac-meaningful-rep-ny",
+    "label": "Meaningful Rep (NY)",
+    "parentTagId": "iac",
+    "color": "#ad90d4"
+  },
+  {
+    "tagId": "iac-failure-to-investigate",
+    "label": "Failure to Investigate",
+    "parentTagId": "iac",
+    "color": "#ad90d4"
+  },
+  {
+    "tagId": "appellate-standards",
+    "label": "Appellate Standards",
+    "parentTagId": null,
+    "color": "#8733b1"
+  },
+  {
+    "tagId": "appellate-standards-harmless-error",
+    "label": "Harmless Error",
+    "parentTagId": "appellate-standards",
+    "color": "#bd90d4"
+  },
+  {
+    "tagId": "appellate-standards-structural-error",
+    "label": "Structural Error",
+    "parentTagId": "appellate-standards",
+    "color": "#bd90d4"
+  },
+  {
+    "tagId": "appellate-standards-abuse-of-discretion",
+    "label": "Abuse of Discretion",
+    "parentTagId": "appellate-standards",
+    "color": "#bd90d4"
+  },
+  {
+    "tagId": "bail",
+    "label": "Bail",
+    "parentTagId": null,
+    "color": "#a333b1"
+  },
+  {
+    "tagId": "bail-eighth-amendment",
+    "label": "Eighth Amendment",
+    "parentTagId": "bail",
+    "color": "#cc90d4"
+  },
+  {
+    "tagId": "bail-ny-reform",
+    "label": "NY Reform",
+    "parentTagId": "bail",
+    "color": "#cc90d4"
+  },
+  {
+    "tagId": "bail-dangerousness",
+    "label": "Dangerousness",
+    "parentTagId": "bail",
+    "color": "#cc90d4"
+  },
+  {
+    "tagId": "suppression",
+    "label": "Suppression",
+    "parentTagId": null,
+    "color": "#b133a5"
+  },
+  {
+    "tagId": "suppression-burden",
+    "label": "Burden",
+    "parentTagId": "suppression",
+    "color": "#d490ce"
+  },
+  {
+    "tagId": "suppression-standing",
+    "label": "Standing",
+    "parentTagId": "suppression",
+    "color": "#d490ce"
+  },
+  {
+    "tagId": "suppression-attenuation",
+    "label": "Attenuation",
+    "parentTagId": "suppression",
+    "color": "#d490ce"
+  },
+  {
+    "tagId": "post-conviction",
+    "label": "Post-Conviction",
+    "parentTagId": null,
+    "color": "#b13387"
+  },
+  {
+    "tagId": "post-conviction-cpl-440",
+    "label": "CPL 440",
+    "parentTagId": "post-conviction",
+    "color": "#d490bd"
+  },
+  {
+    "tagId": "post-conviction-habeas",
+    "label": "Habeas",
+    "parentTagId": "post-conviction",
+    "color": "#d490bd"
+  },
+  {
+    "tagId": "post-conviction-actual-innocence",
+    "label": "Actual Innocence",
+    "parentTagId": "post-conviction",
+    "color": "#d490bd"
+  },
+  {
+    "tagId": "affirmative-defenses",
+    "label": "Affirmative Defenses",
+    "parentTagId": null,
+    "color": "#b1336c"
+  },
+  {
+    "tagId": "affirmative-defenses-justification",
+    "label": "Justification",
+    "parentTagId": "affirmative-defenses",
+    "color": "#d490af"
+  },
+  {
+    "tagId": "affirmative-defenses-eed",
+    "label": "EED",
+    "parentTagId": "affirmative-defenses",
+    "color": "#d490af"
+  },
+  {
+    "tagId": "affirmative-defenses-insanity",
+    "label": "Insanity",
+    "parentTagId": "affirmative-defenses",
+    "color": "#d490af"
+  },
+  {
+    "tagId": "affirmative-defenses-entrapment",
+    "label": "Entrapment",
+    "parentTagId": "affirmative-defenses",
+    "color": "#d490af"
+  },
+  {
+    "tagId": "burden-of-proof",
+    "label": "Burden of Proof",
+    "parentTagId": null,
+    "color": "#b13351"
+  },
+  {
+    "tagId": "burden-of-proof-reasonable-doubt",
+    "label": "Reasonable Doubt",
+    "parentTagId": "burden-of-proof",
+    "color": "#d490a0"
+  },
+  {
+    "tagId": "burden-of-proof-presumption-of-innocence",
+    "label": "Presumption of Innocence",
+    "parentTagId": "burden-of-proof",
+    "color": "#d490a0"
+  },
+  {
+    "tagId": "burden-of-proof-burden-shifting",
+    "label": "Burden Shifting",
+    "parentTagId": "burden-of-proof",
+    "color": "#d490a0"
+  }
+]
