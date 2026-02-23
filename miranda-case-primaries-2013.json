@@ -1,0 +1,418 @@
+[
+  {
+    "caseId": "2013_00029",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2013_00029",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2013_00782",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2013_00782",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2013_00786",
+    "tagId": "affirmative-defenses"
+  },
+  {
+    "caseId": "2013_00881",
+    "tagId": "joinder-severance"
+  },
+  {
+    "caseId": "2013_00883",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2013_00883",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2013_00884",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2013_00884",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2013_00955",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2013_01016",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2013_01016",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2013_01019",
+    "tagId": "confrontation"
+  },
+  {
+    "caseId": "2013_01867",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2013_01990",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2013_01990",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2013_01992",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2013_01992",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2013_01992",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2013_01994",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2013_01995",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2013_02103",
+    "tagId": "discovery"
+  },
+  {
+    "caseId": "2013_02106",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2013_02106",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2013_02159",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2013_02160",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2013_02160",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2013_02161",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2013_03019",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2013_03122",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2013_03123",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2013_03263",
+    "tagId": "jury-selection"
+  },
+  {
+    "caseId": "2013_03265",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2013_03266",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2013_03266",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2013_03872",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2013_03872",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2013_03932",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2013_03932",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2013_03933",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2013_03933",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2013_03934",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2013_04040",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2013_04042",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2013_04042",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2013_04269",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2013_04274",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2013_04276",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2013_04722",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2013_04722",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2013_04755",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2013_04758",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2013_04758",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2013_04840",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2013_04841",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2013_04841",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2013_05719",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2013_05763",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2013_06599",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2013_06599",
+    "tagId": "jury-selection"
+  },
+  {
+    "caseId": "2013_06633",
+    "tagId": "other-crimes"
+  },
+  {
+    "caseId": "2013_06635",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2013_06726",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2013_06726",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2013_06733",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2013_06734",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2013_06805",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2013_06806",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2013_06806",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2013_07511",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2013_07511",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2013_07511",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2013_07514",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2013_07515",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2013_07651",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2013_07655",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2013_07656",
+    "tagId": "speedy-trial"
+  },
+  {
+    "caseId": "2013_07658",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2013_07658",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2013_07757",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2013_07758",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2013_07758",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2013_07760",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2013_07761",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2013_07763",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2013_07764",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2013_07764",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2013_07824",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2013_07824",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2013_07824",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2013_07825",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2013_07829",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2013_08193",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2013_08197",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2013_08286",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2013_08286",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2013_08288",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2013_08289",
+    "tagId": "discovery"
+  },
+  {
+    "caseId": "2013_08289",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2013_08291",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2013_08292",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2013_08292",
+    "tagId": "other-crimes"
+  },
+  {
+    "caseId": "2013_08371",
+    "tagId": "hearsay"
+  }
+]

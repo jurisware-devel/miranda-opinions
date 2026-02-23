@@ -1,0 +1,898 @@
+[
+  {
+    "caseId": "2011_00034",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2011_00034",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2011_00034",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_00744",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2011_00744",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2011_00744",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_00744",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_00744",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_00745",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2011_00745",
+    "tagId": "confrontation"
+  },
+  {
+    "caseId": "2011_00745",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2011_01050",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2011_01050",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_01050",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2011_01066",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2011_01066",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2011_01067",
+    "tagId": "confrontation"
+  },
+  {
+    "caseId": "2011_01067",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2011_01070",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_01316",
+    "tagId": "bail"
+  },
+  {
+    "caseId": "2011_01316",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2011_01316",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2011_01316",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_01316",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_01316",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2011_01320",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2011_01320",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_01320",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_01320",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2011_01362",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2011_01362",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2011_01362",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_01362",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2011_01363",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2011_01363",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2011_01363",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_01363",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_01364",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2011_01364",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2011_01364",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_02074",
+    "tagId": "affirmative-defenses"
+  },
+  {
+    "caseId": "2011_02074",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2011_02074",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2011_02076",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_02076",
+    "tagId": "speedy-trial"
+  },
+  {
+    "caseId": "2011_02076",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_02077",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2011_02077",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_02078",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2011_02078",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_02078",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_02438",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_02439",
+    "tagId": "affirmative-defenses"
+  },
+  {
+    "caseId": "2011_02439",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2011_02439",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_02441",
+    "tagId": "confrontation"
+  },
+  {
+    "caseId": "2011_02441",
+    "tagId": "hearsay"
+  },
+  {
+    "caseId": "2011_02441",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_02442",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_02479",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2011_02482",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2011_02482",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2011_02482",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_02482",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_02483",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2011_02483",
+    "tagId": "speedy-trial"
+  },
+  {
+    "caseId": "2011_02483",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_02717",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2011_02717",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_02717",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_02718",
+    "tagId": "affirmative-defenses"
+  },
+  {
+    "caseId": "2011_02718",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2011_02718",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2011_02718",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_02718",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_02721",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_03308",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2011_03308",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_03308",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_03647",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2011_03647",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2011_03650",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2011_03650",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2011_03651",
+    "tagId": "confrontation"
+  },
+  {
+    "caseId": "2011_03651",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2011_03651",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_03651",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2011_03676",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_03676",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2011_03677",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2011_03677",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_03677",
+    "tagId": "speedy-trial"
+  },
+  {
+    "caseId": "2011_03885",
+    "tagId": "jury-selection"
+  },
+  {
+    "caseId": "2011_03887",
+    "tagId": "discovery"
+  },
+  {
+    "caseId": "2011_03887",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_03887",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_03887",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2011_03889",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_03889",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2011_04540",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2011_04542",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2011_04542",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_04542",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2011_04716",
+    "tagId": "jury-selection"
+  },
+  {
+    "caseId": "2011_04717",
+    "tagId": "bail"
+  },
+  {
+    "caseId": "2011_04717",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2011_04717",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2011_04717",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_04717",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_04717",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2011_04718",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2011_04721",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2011_04721",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2011_04721",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2011_04721",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_04764",
+    "tagId": "affirmative-defenses"
+  },
+  {
+    "caseId": "2011_04764",
+    "tagId": "jury-selection"
+  },
+  {
+    "caseId": "2011_04766",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_04766",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2011_04769",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_05110",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_05110",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_05110",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_05110",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2011_05112",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2011_05112",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_05115",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2011_05115",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2011_05115",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_05116",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_05364",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_05364",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2011_05544",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2011_05544",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_05545",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2011_05545",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_05584",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2011_05584",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_05584",
+    "tagId": "speedy-trial"
+  },
+  {
+    "caseId": "2011_06407",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_06425",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2011_06425",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_06425",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_06425",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_07146",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2011_07146",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2011_07146",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2011_07146",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_07146",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2011_07147",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_07148",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_07148",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2011_07254",
+    "tagId": "hearsay"
+  },
+  {
+    "caseId": "2011_07254",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_07255",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2011_07255",
+    "tagId": "confrontation"
+  },
+  {
+    "caseId": "2011_07255",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2011_07255",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_07302",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2011_07303",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2011_07303",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2011_07303",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_07303",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2011_07304",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2011_07304",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2011_07304",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2011_07304",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2011_07306",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2011_07306",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2011_07475",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2011_07475",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_07475",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2011_08178",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2011_08178",
+    "tagId": "jury-selection"
+  },
+  {
+    "caseId": "2011_08178",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_08178",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_08225",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2011_08225",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2011_08225",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_08225",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_08225",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2011_08225",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2011_08443",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2011_08445",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_08448",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2011_08448",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2011_08448",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_08448",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2011_08450",
+    "tagId": "affirmative-defenses"
+  },
+  {
+    "caseId": "2011_08453",
+    "tagId": "affirmative-defenses"
+  },
+  {
+    "caseId": "2011_08453",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2011_08453",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2011_08453",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2011_08453",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_08454",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2011_08454",
+    "tagId": "burden-of-proof"
+  },
+  {
+    "caseId": "2011_08454",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2011_08454",
+    "tagId": "jury-selection"
+  },
+  {
+    "caseId": "2011_08455",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2011_08455",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2011_08455",
+    "tagId": "other-crimes"
+  },
+  {
+    "caseId": "2011_08456",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2011_08456",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_08456",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_08963",
+    "tagId": "identifications"
+  },
+  {
+    "caseId": "2011_08963",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2011_08963",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_08963",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_08963",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_08963",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2011_08964",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_08964",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2011_08999",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_08999",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_09000",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2011_09000",
+    "tagId": "jury-selection"
+  },
+  {
+    "caseId": "2011_09000",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_09000",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2011_09000",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_09000",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2011_09001",
+    "tagId": "speedy-trial"
+  },
+  {
+    "caseId": "2011_09001",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2011_09164",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2011_09164",
+    "tagId": "statements"
+  }
+]

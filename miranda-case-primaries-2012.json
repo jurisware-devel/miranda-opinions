@@ -1,0 +1,354 @@
+[
+  {
+    "caseId": "2012_00855",
+    "tagId": "speedy-trial"
+  },
+  {
+    "caseId": "2012_00855",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2012_00858",
+    "tagId": "other-crimes"
+  },
+  {
+    "caseId": "2012_00858",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2012_01097",
+    "tagId": "other-crimes"
+  },
+  {
+    "caseId": "2012_01097",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2012_01099",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2012_01101",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2012_01143",
+    "tagId": "other-crimes"
+  },
+  {
+    "caseId": "2012_01144",
+    "tagId": "other-crimes"
+  },
+  {
+    "caseId": "2012_02121",
+    "tagId": "bail"
+  },
+  {
+    "caseId": "2012_02122",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2012_02123",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2012_02127",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2012_02247",
+    "tagId": "grand-jury"
+  },
+  {
+    "caseId": "2012_02252",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2012_02340",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2012_02341",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2012_02342",
+    "tagId": "experts"
+  },
+  {
+    "caseId": "2012_02342",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2012_02418",
+    "tagId": "affirmative-defenses"
+  },
+  {
+    "caseId": "2012_02419",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2012_03232",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2012_03360",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2012_03363",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2012_03473",
+    "tagId": "post-conviction"
+  },
+  {
+    "caseId": "2012_03474",
+    "tagId": "other-crimes"
+  },
+  {
+    "caseId": "2012_03475",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2012_03475",
+    "tagId": "speedy-trial"
+  },
+  {
+    "caseId": "2012_03572",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2012_03573",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2012_03576",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2012_04200",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2012_04201",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2012_04204",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2012_04206",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2012_04272",
+    "tagId": "confrontation"
+  },
+  {
+    "caseId": "2012_04273",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2012_04276",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2012_04278",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2012_04375",
+    "tagId": "joinder-severance"
+  },
+  {
+    "caseId": "2012_04378",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2012_04665",
+    "tagId": "discovery"
+  },
+  {
+    "caseId": "2012_04667",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2012_04667",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2012_04669",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2012_05090",
+    "tagId": "affirmative-defenses"
+  },
+  {
+    "caseId": "2012_05090",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2012_05094",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2012_05095",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2012_05095",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2012_05121",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2012_05121",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2012_05123",
+    "tagId": "discovery"
+  },
+  {
+    "caseId": "2012_05125",
+    "tagId": "speedy-trial"
+  },
+  {
+    "caseId": "2012_05125",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2012_05198",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2012_05198",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2012_05199",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2012_05199",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2012_07047",
+    "tagId": "jury-instructions"
+  },
+  {
+    "caseId": "2012_07052",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2012_07052",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2012_07145",
+    "tagId": "charging"
+  },
+  {
+    "caseId": "2012_07147",
+    "tagId": "sentencing"
+  },
+  {
+    "caseId": "2012_07223",
+    "tagId": "right-to-counsel"
+  },
+  {
+    "caseId": "2012_07227",
+    "tagId": "jury-selection"
+  },
+  {
+    "caseId": "2012_07227",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2012_07851",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2012_07852",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2012_07855",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2012_07858",
+    "tagId": "affirmative-defenses"
+  },
+  {
+    "caseId": "2012_07858",
+    "tagId": "other-crimes"
+  },
+  {
+    "caseId": "2012_08056",
+    "tagId": "iac"
+  },
+  {
+    "caseId": "2012_08058",
+    "tagId": "statements"
+  },
+  {
+    "caseId": "2012_08058",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2012_08169",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2012_08170",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2012_08441",
+    "tagId": "affirmative-defenses"
+  },
+  {
+    "caseId": "2012_08441",
+    "tagId": "pleas"
+  },
+  {
+    "caseId": "2012_08565",
+    "tagId": "double-jeopardy"
+  },
+  {
+    "caseId": "2012_08567",
+    "tagId": "appellate-standards"
+  },
+  {
+    "caseId": "2012_08668",
+    "tagId": "sufficiency-weight"
+  },
+  {
+    "caseId": "2012_08670",
+    "tagId": "search-seizure"
+  },
+  {
+    "caseId": "2012_08670",
+    "tagId": "suppression"
+  },
+  {
+    "caseId": "2012_08671",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2012_08674",
+    "tagId": "preservation"
+  },
+  {
+    "caseId": "2012_08674",
+    "tagId": "sufficiency-weight"
+  }
+]
