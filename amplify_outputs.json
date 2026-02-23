@@ -34,6 +34,24 @@
       "require_symbols": true,
       "require_uppercase": true
     },
+    "oauth": {
+      "identity_providers": [],
+      "redirect_sign_in_uri": [
+        "http://localhost:5173/",
+        "https://miranda.jurisware.com/"
+      ],
+      "redirect_sign_out_uri": [
+        "http://localhost:5173/",
+        "https://miranda.jurisware.com/"
+      ],
+      "response_type": "code",
+      "scopes": [
+        "openid",
+        "email",
+        "profile"
+      ],
+      "domain": "9dd375eae499719ee1de.auth.us-east-1.amazoncognito.com"
+    },
     "unauthenticated_identities_enabled": true
   },
   "data": {
@@ -204,10 +222,26 @@
                     "allow": "public",
                     "provider": "iam",
                     "operations": [
+                      "read"
+                    ]
+                  },
+                  {
+                    "allow": "private",
+                    "operations": [
+                      "read"
+                    ]
+                  },
+                  {
+                    "groupClaim": "cognito:groups",
+                    "provider": "userPools",
+                    "allow": "groups",
+                    "operations": [
                       "create",
-                      "read",
                       "update",
                       "delete"
+                    ],
+                    "groups": [
+                      "Admin"
                     ]
                   }
                 ]
@@ -291,10 +325,26 @@
                     "allow": "public",
                     "provider": "iam",
                     "operations": [
+                      "read"
+                    ]
+                  },
+                  {
+                    "allow": "private",
+                    "operations": [
+                      "read"
+                    ]
+                  },
+                  {
+                    "groupClaim": "cognito:groups",
+                    "provider": "userPools",
+                    "allow": "groups",
+                    "operations": [
                       "create",
-                      "read",
                       "update",
                       "delete"
+                    ],
+                    "groups": [
+                      "Admin"
                     ]
                   }
                 ]
@@ -376,9 +426,25 @@
                     "allow": "public",
                     "provider": "iam",
                     "operations": [
+                      "read"
+                    ]
+                  },
+                  {
+                    "allow": "private",
+                    "operations": [
+                      "read"
+                    ]
+                  },
+                  {
+                    "groupClaim": "cognito:groups",
+                    "provider": "userPools",
+                    "allow": "groups",
+                    "operations": [
                       "create",
-                      "read",
                       "delete"
+                    ],
+                    "groups": [
+                      "Admin"
                     ]
                   }
                 ]
@@ -461,13 +527,23 @@
               "properties": {
                 "rules": [
                   {
-                    "allow": "public",
-                    "provider": "iam",
+                    "allow": "private",
                     "operations": [
                       "create",
                       "read",
-                      "update",
+                      "update"
+                    ]
+                  },
+                  {
+                    "groupClaim": "cognito:groups",
+                    "provider": "userPools",
+                    "allow": "groups",
+                    "operations": [
+                      "read",
                       "delete"
+                    ],
+                    "groups": [
+                      "Admin"
                     ]
                   }
                 ]
