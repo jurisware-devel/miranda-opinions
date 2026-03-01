@@ -6,7 +6,7 @@ set -euo pipefail
 CF_DISTRIBUTION_ID="E2U16NO7NSYNDZ"
 
 echo "Syncing to S3..."
-aws s3 sync . s3://opinions.jurisware.com \
+aws s3 sync /Users/jonathan/Projects/miranda-opinions s3://opinions.jurisware.com \
   --delete \
   --exclude ".git/*" \
   --cache-control "public, max-age=0, must-revalidate"
